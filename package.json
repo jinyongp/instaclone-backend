@@ -1,0 +1,7 @@
+{
+  "name": "instaclone-backend",
+  "version": "1.0.0",
+  "repository": "git@github.com:jinyongp/instaclone-backend.git",
+  "author": "jinyongp <dev.jinyongp@gmail.com>",
+  "license": "MIT"
+}
